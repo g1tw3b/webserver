@@ -1,0 +1,798 @@
+# Copyright (C) 2024 drakearthur
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Solar System Company 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/solar-system-company\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-05T05:50:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: solar-system-company\n"
+
+#. Theme Name of the theme
+#: style.css
+#: footer.php:29
+msgid "Solar System Company"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.seothemesexpert.com/products/free-solar-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Solar System Company is designed specifically for businesses in the solar industry, offering a professional and visually appealing platform to showcase solar energy solutions. Ideal for solar providers, installation companies, and related businesses, this theme supports the promotion of solar products and services, from solar panels to battery storage systems. Its clean, modern design enhances user engagement, ensuring that visitors receive a clear, compelling presentation of your offerings. The theme benefits businesses by providing an intuitive interface that simplifies content management and customization. With its focus on solar energy, it helps convey expertise and credibility, which is crucial for attracting and retaining clients. Visual elements include high-resolution images and sleek layouts that highlight solar technology and its benefits, enhancing the overall user experience. Features like responsive design ensure that the theme performs well on all devices, from desktops to mobile phones. This adaptability is essential for reaching a broader audience and catering to the increasing number of users accessing websites via smartphones. The theme also integrates with various plugins and tools that facilitate solar consultations, quotes, and service bookings, streamlining the client interaction process. The Solar System Company WordPress Theme is a valuable asset for any solar business looking to elevate its online presence."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "drakearthur"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.seothemesexpert.com/"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: 404.php:17
+msgid "Go to Home"
+msgstr ""
+
+#: comments.php:41
+#: comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44
+#: comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+#: comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:27
+msgid "Copyright &copy; 2024,"
+msgstr ""
+
+#: footer.php:33
+msgid "WordPress Theme"
+msgstr ""
+
+#: footer.php:42
+msgid "TOP"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:107
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:109
+msgid "The Primary Widget Area"
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:119
+msgid "The Footer Widget Area"
+msgstr ""
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: functions.php:240
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: functions.php:244
+msgid "Get started"
+msgstr ""
+
+#: header.php:18
+msgid "Loading"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:34
+msgid "About Theme"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:43
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:44
+msgid "About"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:46
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:58
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:58
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:61
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:61
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:76
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:77
+msgid "Take a step towards excellence, try our premium theme. Use Code"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:78
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:82
+#: inc/aboutthemes/about-theme.php:84
+msgid "Lite Documentation"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:83
+msgid "The free theme documentation can help you set up the theme."
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:88
+#: inc/aboutthemes/about-theme.php:90
+msgid "Theme Info"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:89
+msgid "Know more about Solar System Company."
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:94
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:95
+msgid "You can get all theme options in customizer."
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:96
+msgid "Customize"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:100
+msgid "Need Support?"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:101
+msgid "If you are having some issues with the theme or you want to tweak some thing, you can contact us our expert team will help you."
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:102
+msgid "Support Forum"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:106
+msgid "Review"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:107
+msgid "If you have loved our theme please show your support with the review."
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:108
+msgid "Rate Us"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:115
+msgid "Version"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:118
+#: inc/aboutthemes/about-theme.php:146
+msgid "Upgrade to pro"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:120
+#: inc/aboutthemes/about-theme.php:148
+msgid "View Demo"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:122
+msgid "Buy Bundle"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:124
+#: inc/aboutthemes/about-theme.php:150
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:153
+msgid "View Free vs Pro Table below:"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:158
+msgid "Free Theme"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:159
+msgid "Pro Theme"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:164
+msgid "One click demo import"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:169
+msgid "Color pallete and font options"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:174
+msgid "Demo Content has 8 to 10 sections"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:179
+msgid "Rearrange sections as per your need"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:184
+msgid "Internal Pages"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:189
+msgid "Plugin Integration"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:194
+msgid "Ultimate technical support"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:199
+msgid "Access our Support Forums"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:204
+msgid "Get regular updates"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:209
+msgid "Install theme on unlimited domains"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:214
+msgid "Mobile Responsive"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:219
+msgid "Easy Customization"
+msgstr ""
+
+#: inc/aboutthemes/about-theme.php:226
+msgid "Go for Premium"
+msgstr ""
+
+#: inc/class-wp-bootstrap-navwalker.php:370
+msgid "Add a menu"
+msgstr ""
+
+#: inc/custom-header.php:19
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:19
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:38
+msgid "Hide / Show Footer Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:49
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:78
+msgid "Hide / Show Footer Copytight"
+msgstr ""
+
+#: inc/customizer/customizer-options/footer.php:98
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:7
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:16
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:36
+#: inc/customizer/customizer-options/frontpage.php:138
+#: inc/customizer/customizer-options/general.php:55
+msgid "Hide / Show Section"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:52
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:71
+msgid "Slider Top Text"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:88
+msgid "Slider Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:105
+msgid "Slider Button Link"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:118
+msgid "Our Services Section"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:159
+msgid "Hide / Show Button"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:176
+msgid "Add Small Title"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:193
+msgid "Add Heading"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:224
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:237
+msgid "Number of Popular Online Courses to Show"
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:259
+msgid "Add Goal Amount "
+msgstr ""
+
+#: inc/customizer/customizer-options/frontpage.php:271
+msgid "Add Raised Amount "
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:7
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:16
+msgid "Breadcrumb Section"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:36
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:67
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:86
+msgid "Hide / Show Preloader"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:98
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:117
+msgid "Hide / Show Scroll To Top"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:129
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:145
+msgid "Product Per Columns"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:162
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/customizer/customizer-options/general.php:182
+msgid "Hide / Show Woocommerce Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-options/header.php:18
+msgid "Hide / Show Site Title"
+msgstr ""
+
+#: inc/customizer/customizer-options/header.php:38
+msgid "Hide / Show Tagline"
+msgstr ""
+
+#: inc/customizer/customizer-options/header.php:53
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer-options/header.php:64
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:7
+msgid "Post Option"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:16
+msgid "Archive Post"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:36
+#: inc/customizer/customizer-options/post.php:194
+msgid "Hide / Show Post Heading"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:57
+#: inc/customizer/customizer-options/post.php:215
+msgid "Hide / Show Post Content"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:78
+#: inc/customizer/customizer-options/post.php:236
+msgid "Hide / Show Post Feature Image"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:99
+#: inc/customizer/customizer-options/post.php:257
+msgid "Hide / Show Post Date"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:120
+#: inc/customizer/customizer-options/post.php:278
+msgid "Hide / Show Post Comment"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:141
+#: inc/customizer/customizer-options/post.php:299
+msgid "Hide / Show Post Author"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:162
+#: inc/customizer/customizer-options/post.php:319
+msgid "Hide / Show Post Tags"
+msgstr ""
+
+#: inc/customizer/customizer-options/post.php:174
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:7
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:16
+msgid "Typography Option"
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:61
+msgid "Select your appropriate font for the headings."
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:73
+msgid "Select your appropriate font for the body."
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:80
+msgid "Dynamic Color Options"
+msgstr ""
+
+#: inc/customizer/customizer-options/typography.php:91
+msgid "First Dynamic Color"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:12
+msgid "Header Information"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:22
+msgid "Add Mail Address"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:32
+msgid "Add location"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:42
+msgid "Add Phone No"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:52
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:62
+msgid "Header Button Link"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:69
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:70
+msgid "Add your Social Links"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:80
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:90
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:100
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/customizer-options/upper-header.php:110
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/customizer-pro/class-customize.php:81
+msgid "UPGRADE TO PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer-pro/class-customize.php:82
+msgid "Go Pro"
+msgstr ""
+
+#: inc/extras.php:55
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/extras.php:59
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/extras.php:63
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/extras.php:67
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/extras.php:71
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/extras.php:75
+msgid "Error 404"
+msgstr ""
+
+#: inc/extras.php:79
+msgid "Author: %s"
+msgstr ""
+
+#: inc/extras.php:111
+#: inc/extras.php:114
+msgid "1"
+msgstr ""
+
+#: inc/extras.php:113
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:133
+msgid "Archive by category"
+msgstr ""
+
+#: inc/extras.php:139
+msgid "Search results for"
+msgstr ""
+
+#: inc/extras.php:242
+msgid "Posts tagged "
+msgstr ""
+
+#: inc/extras.php:248
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/extras.php:252
+msgid "Error 404 "
+msgstr ""
+
+#: inc/extras.php:257
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:49
+#: inc/template-tags.php:55
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:64
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71
+msgid "Edit %s"
+msgstr ""
+
+#: page.php:43
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content/content-post-audio.php:58
+#: template-parts/content/content-post-gallery.php:53
+#: template-parts/content/content-post-image.php:62
+#: template-parts/content/content-post-video.php:61
+#: template-parts/content/content-post.php:102
+#: template-parts/content/content-post.php:119
+msgid "HOURS"
+msgstr ""
+
+#: template-parts/content/content-post.php:99
+msgid "By"
+msgstr ""
+
+#: template-parts/sections/section-header.php:90
+msgid "Toggle navigation"
+msgstr ""
+
+#: template-parts/sections/section-header.php:94
+msgid "Close navigation"
+msgstr ""
+
+#: template-parts/sections/section-header.php:118
+msgid "Emergency Contact No "
+msgstr ""
+
+#: template-parts/sections/section-our-services.php:62
+msgid "Goal "
+msgstr ""
+
+#: template-parts/sections/section-our-services.php:63
+msgid "Raised "
+msgstr ""
+
+#: template-parts/sections/section-our-services.php:122
+msgid "Donate Now"
+msgstr ""
+
+#: template-parts/sections/section-slider.php:57
+msgid "READ MORE"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page with Sidebar"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:32
+#: woocommerce/cart/mini-cart.php:147
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+#: woocommerce/cart/mini-cart.php:170
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:105
+#: woocommerce/cart/mini-cart.php:221
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/content-product.php:34
+msgid "Placeholder Image"
+msgstr ""
+
+#: woocommerce/content-product.php:40
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/content-product.php:48
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/content-product.php:48
+msgid "out of 5"
+msgstr ""

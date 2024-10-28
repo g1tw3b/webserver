@@ -1,0 +1,29 @@
+.control-section-solar-system-company h3 {
+	margin: 0;
+	padding: 1px 0;
+	border: 0;
+	position: relative;
+}
+.control-section-solar-system-company h3 a {
+	background: #fff;
+	display: block;
+	text-decoration: none;
+}
+li#accordion-section-solar-system-company a {
+    background: none #0cd4ff;
+    border-color: #0cd4ff;
+    box-shadow: none;
+    clear: both;
+    color: #fff;
+    display: block;
+    font-size: 24px;
+    font-weight: 500;
+    height: auto;
+    margin: 7px 0 0;
+    padding: 7px 14px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#accordion-section-themes+.control-section {
+    margin-bottom: 17px;
+}
