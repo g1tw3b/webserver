@@ -56,6 +56,27 @@
         </p>
     </a>
 </li>
+
+<?php 
+$userId = null; // Initialize the user ID variable
+
+if(isset($_GET['id']) && $_GET['id'] > 0){
+    $user = $conn->query("SELECT * FROM users WHERE id ='{$_GET['id']}'");
+    if ($user && $user->num_rows > 0) {
+        $meta = $user->fetch_assoc(); // Fetch associative array
+        $userId = $meta['id']; // Get the user ID
+    }
+}
+?>
+
+<li class="nav-item dropdown">
+    <a href="<?php echo base_url ?>login/?page=user/manage_user&id=<?php echo $userId; ?>" class="nav-link nav-equipment-status">
+        <i class="nav-icon fas fa-tools"></i> <!-- You can change the icon as needed -->
+        <p>
+            User Profile
+        </p>
+    </a>
+</li>
                         <?php if ($_settings->userdata('type') == 1): ?>
                         <li class="nav-header">Maintenance</li>
                         <li class="nav-item dropdown">

